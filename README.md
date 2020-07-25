@@ -4,6 +4,9 @@
 - These assessments are meant to give you coding practice and to ensure that you follow directions and understand them.
 - We are here to help you get through them if needed.
 
+## Assessment Links:
+- [Week 3](Week3/README.md)
+
 ## Don't Forget!
 
 HAVE FUN!
