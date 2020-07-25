@@ -20,8 +20,8 @@ $ git clone [THE LINK FOR YOUR FORKED REPO]
 #### 2. Follow the repo creation instructions
 - Navigate to `workspace/foundations/` and Clone this repo
 ```
-$ git clone git@github.com:drteresavasquez/code-assessments.git
-$ cd code-assessments
+$ git clone git@github.com:drteresavasquez/code-challenges.git
+$ cd code-challenges
 ```
 
 - Create your own repo on Github
@@ -29,7 +29,7 @@ $ cd code-assessments
 - Connect your repo to your local clone
 ```
 $ git remote -v 
-# you will see this: origin  git@github.com:drteresavasquez/code-assessments.git
+# you will see this: origin  git@github.com:drteresavasquez/code-challenges.git
 
 $ git remote remove origin
 $ git remote add origin [GET THE LINK TO THE REPO YOU CREATED ON GITHUB]
