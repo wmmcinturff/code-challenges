@@ -33,8 +33,11 @@ $ git remote remove origin
 $ git remote add origin [GET THE LINK TO THE REPO YOU CREATED ON GITHUB]
 ```
 
-## Assessment Links:
-- [Week 3](Week3/README.md)
+## To Submit Your Assessment
+- Create a branch off master named the week of the challenge
+- After you have made all the code changes, push the branch up to GitHub
+- Create a PR
+- Copy link to PR and submit on your Assignments card in ClassTracker
 
 ## Don't Forget!
 
