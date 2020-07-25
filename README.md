@@ -5,15 +5,26 @@
 - We are here to help you get through them if needed.
 
 ## Instructions to use
-1. Navigate to `workspace/foundations/` and Clone this repo
+
+There are two ways you can have access to this repo:
+#### 1. The Easy way 
+- Push the `Fork` option at the top of the repo
+- Clone the fork to your local
+```
+$ git clone [THE LINK FOR YOUR FORKED REPO]
+```
+- Have fun!
+
+#### 2. Follow the repo creation instructions
+- Navigate to `workspace/foundations/` and Clone this repo
 ```
 $ git clone git@github.com:drteresavasquez/code-assessments.git
 $ cd code-assessments
 ```
 
-2. Create your own repo on Github
+- Create your own repo on Github
 
-3. Connect your repo to your local clone
+- Connect your repo to your local clone
 ```
 $ git remote -v 
 # you will see this: origin  git@github.com:drteresavasquez/code-assessments.git
