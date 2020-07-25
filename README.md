@@ -1,8 +1,10 @@
-# Code Assessments
+# Code Challenges
 
 - Over the next few weeks, we will be testing your knowledge on several code concpets to ensure that you understand them. 
 - These assessments are meant to give you coding practice and to ensure that you follow directions and understand them.
 - We are here to help you get through them if needed.
+- [Instructions](#instructions-to-use)
+- [Submit your Challenge](#to-submit-your-assessment)
 
 ## Instructions to use
 
@@ -33,7 +35,7 @@ $ git remote remove origin
 $ git remote add origin [GET THE LINK TO THE REPO YOU CREATED ON GITHUB]
 ```
 
-## To Submit Your Assessment
+## To Submit Your Challenge
 - Create a branch off master named the week of the challenge
 - After you have made all the code changes, push the branch up to GitHub
 - Create a PR
