@@ -15,11 +15,13 @@ There are two ways you can have access to this repo:
 ```
 $ git clone [THE LINK FOR YOUR FORKED REPO]
 ```
-- Connect your repo to your local clone
+- Make sure your remote is correct
 ```
 $ git remote -v 
-$ git remote add origin [GET THE LINK TO THE REPO YOU CREATED ON GITHUB]
+# you should see this: origin  git@github.com:YOUR_GH_USER_NAME/code-challenges.git
 ```
+If your remote is not set up properly, you may have forked the repo to the wrong account or an organization. Start over and ensure you select your account when you create the fork.
+
 - Have fun!
 
 #### 2. Follow the repo creation instructions
