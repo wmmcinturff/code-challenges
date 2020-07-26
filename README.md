@@ -15,6 +15,11 @@ There are two ways you can have access to this repo:
 ```
 $ git clone [THE LINK FOR YOUR FORKED REPO]
 ```
+- Connect your repo to your local clone
+```
+$ git remote -v 
+$ git remote add origin [GET THE LINK TO THE REPO YOU CREATED ON GITHUB]
+```
 - Have fun!
 
 #### 2. Follow the repo creation instructions
